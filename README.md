@@ -195,8 +195,7 @@
             <div class="producto"><img src="https://via.placeholder.com/300x300?text=Sudadera+1"><p>Sudadera con diseño</p></div>
             <div class="producto"><img src="https://via.placeholder.com/300x300?text=Uniforme+1"><p>Uniforme empresarial</p></div>
             <div class="producto"><img src="https://via.placeholder.com/300x300?text=Playera+2"><p>Diseños creativos</p></div>
-<div class="producto"><img src="https://via.placeholder.com/300x300?text=Playera+1"><p>Playera personalizada</p></div>
-<div class="producto"><img src="https://via.placeholder.com/300x300?text=Playera+1"><p>Playera personalizada</p></div>
+
             <div class="producto"><img src="https://via.placeholder.com/300x300?text=Sudadera+2"><p>Sudaderas modernas</p></div>
             <div class="producto"><img src="https://via.placeholder.com/300x300?text=Uniforme+2"><p>Uniformes personalizados</p></div>
         </div>
